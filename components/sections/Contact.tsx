@@ -6,7 +6,7 @@ function ContactMe() {
           Contact Me
         </h2>
         <p className="section-paragraph">
-          I've had the pleasure of working with multiple blas and multiple blas
+          Ive had the pleasure of working with multiple blas and multiple blas
         </p>
         <div className="w-full grid lg:grid-cols-2 gap-8 lg:gap-32 mt-24">
           <div className="space-y-12">

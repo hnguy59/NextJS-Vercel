@@ -1,8 +1,10 @@
 ## TODO
 
+fix the nav dots
+fix image implementation
+
 add scroll to top
 add hover effect
-fix image implementation
 add socials
 add email work
 add icons

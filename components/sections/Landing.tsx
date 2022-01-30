@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 function Landing() {
   return (
     <section className="container mt-16 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
@@ -51,11 +53,12 @@ function Landing() {
             </button>
           </div>
         </div>
-        <img
+        {/* <Image
           src="/public/profile.png"
           alt="Man"
           className="w-3/4 mt-12 md:absolute -mt-6 md:mt-0 right-0 -z-1"
-        />
+          layout="fill"
+        /> */}
       </div>
     </section>
   );

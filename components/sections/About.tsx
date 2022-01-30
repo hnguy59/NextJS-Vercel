@@ -5,7 +5,7 @@ function About() {
         <h2 id="about" className="secondary-title">
           About me
         </h2>
-        <p className="section-paragraph">IT"S WHAT I DO BRRR</p>
+        <p className="section-paragraph">ITS WHAT I DO BRRR</p>
       </div>
     </section>
   );

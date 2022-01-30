@@ -69,7 +69,7 @@ a {
   transition: background 200ms, border-color 200ms;
 }
 
-.selected-circly {
+.selected-circle {
   @apply border-theme bg-theme;
 }
 
